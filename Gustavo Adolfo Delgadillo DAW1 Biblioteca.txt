@@ -1,0 +1,2 @@
+PROYECTO:Sistema de Gestión de Biblioteca
+Modelo EER esta en drive proyeto DB Biblioteca Biblioteca - Proyecto Final
