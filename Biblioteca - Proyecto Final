@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="zIwo5TWCgFkyhJxfRJzP">
-    <mxGraphModel dx="2054" dy="1327" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1572" dy="1057" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -333,6 +333,15 @@
         </mxCell>
         <mxCell id="m5ED17T864SmTHl0N3pr-102" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="&lt;u&gt;Id&lt;/u&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="152" y="399" as="geometry" />
+        </mxCell>
+        <mxCell id="qYQqvfPoGVWK_GdzrvWJ-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="E" vertex="1">
+          <mxGeometry height="30" width="60" x="396" y="303" as="geometry" />
+        </mxCell>
+        <mxCell id="qYQqvfPoGVWK_GdzrvWJ-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Podria ser ternaria? es decir: un usuario puede solicitar un ejemplar y podria tener multas&lt;br&gt;&lt;br&gt;para mi no pero pregunto par aclarar...&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="230" x="612" y="274" as="geometry" />
+        </mxCell>
+        <mxCell id="qYQqvfPoGVWK_GdzrvWJ-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="sino lo es podria &quot;Solicitar&quot; ser una entidad ya que podria saber tanto el prestamo el usuario que ejemplar fue y si tiene multa" vertex="1">
+          <mxGeometry height="80" width="230" x="309" y="453" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
