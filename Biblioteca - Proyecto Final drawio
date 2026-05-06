@@ -1,6 +1,10 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="zIwo5TWCgFkyhJxfRJzP">
+<<<<<<< HEAD
     <mxGraphModel dx="2570" dy="943" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+=======
+    <mxGraphModel dx="2854" dy="1327" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+>>>>>>> b809479118f0f5adc59b224d4ecc68bb078f1eeb
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -322,9 +326,12 @@
         <mxCell id="SVM_hooYVHQS_HjvIZdd-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="1:M&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="-848" y="40.5" as="geometry" />
         </mxCell>
+<<<<<<< HEAD
         <mxCell id="SVM_hooYVHQS_HjvIZdd-24" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Modelo ER&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" vertex="1">
           <mxGeometry height="373" width="922" x="-1327" y="644" as="geometry" />
         </mxCell>
+=======
+>>>>>>> b809479118f0f5adc59b224d4ecc68bb078f1eeb
       </root>
     </mxGraphModel>
   </diagram>
